@@ -21,6 +21,7 @@ function search() {
 
 function addFavorite(film) {
   // préparation
+  // penser à un futur appel de modal pour gerer le commentaire et la note
   console.log('favori ajouté :', film.title)
 }
 
